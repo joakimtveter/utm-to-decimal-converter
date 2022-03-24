@@ -7,7 +7,7 @@ I did not end up needing it because the dataset had decimal coordinates after al
 I had allmost finnished it, so I completed it. Original data set was almost 400 locations.
 
 ## Functionality
-It reads a `.js`-file and uses [proj4](http://proj4js.org/) to convert the coordinates and writes the data to a new `.js`-file.
+It reads a `.js`-file and uses [proj4](http://proj4js.org/) to convert the coordinates and writes the data to a new `.json`-file.
 
 ## Instructions
 
