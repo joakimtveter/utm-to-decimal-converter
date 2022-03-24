@@ -1,1 +1,7 @@
-# utm-to-decimal-converter
+# UTM to decimal converter
+
+## Backstory
+
+I receved a dataset with UTM coordinates that i needed to imput into a map application that only takes decimal coordinates.
+I did not end up needing it because the dataset had decimal coordinates after all.
+I had allmost finnished it, so I completed it. Original data set was almost 400 locations.
