@@ -8,3 +8,10 @@ I had allmost finnished it, so I completed it. Original data set was almost 400 
 
 ## Functionality
 It reads a `.js`-file and uses [proj4](http://proj4js.org/) to convert the coordinates and writes the data to a new `.js`-file.
+
+## Instructions
+
+1. Clone the repository
+1. Run `npm install`
+1. Modify the code to fit your dataset
+1. Run `node script.js `
