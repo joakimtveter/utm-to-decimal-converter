@@ -1,4 +1,4 @@
-# UTM to decimal converter
+# UTM to decimal location converter
 
 ## Backstory
 
